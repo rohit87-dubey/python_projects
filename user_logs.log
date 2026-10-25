@@ -1,0 +1,8 @@
+2026-10-11 21:39:12 - status: Success
+2026-10-11 21:39:12 - status_code: 200
+2026-10-11 21:39:12 - message: This is a log message
+2026-10-11 21:39:12 - error: No error
+2026-10-11 21:39:12 - status: Failed
+2026-10-11 21:39:12 - status_code: 500
+2026-10-11 21:39:12 - message: This is a log message
+2026-10-11 21:39:12 - error: error
